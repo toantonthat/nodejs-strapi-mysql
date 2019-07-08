@@ -4,7 +4,17 @@
 
 2. cd nodejs-strapi-mysql\config\environments\development
 
-open database.json and config mysql connection
+Open database.json and config mysql connection : 
+
+```
+"settings": {
+  "client": "mysql",
+  "host": "127.0.0.1",
+  "port": 3306,
+  "database": "blog",
+  "username": "root",
+  "password": ""
+}
 
 3. Then run : 
 
