@@ -1,4 +1,4 @@
-# blog
+## Quickstart (recommended)
 
 1. `git clone https://github.com/strapi/strapi-docker && cd strapi-docker`
 
