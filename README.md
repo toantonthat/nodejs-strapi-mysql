@@ -4,9 +4,9 @@
 
 2. cd nodejs-strapi-mysql\config\environments\development
 
+```
 Open database.json and config mysql connection : 
 
-```
 "settings": {
   "client": "mysql",
   "host": "127.0.0.1",
@@ -15,11 +15,10 @@ Open database.json and config mysql connection :
   "username": "root",
   "password": ""
 }
+```
 
-3. Then run : 
-
+Then run : 
 ```
 npm install 
 
 strapi start
-
