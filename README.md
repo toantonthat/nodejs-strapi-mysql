@@ -6,11 +6,10 @@
 
 open database.json and config mysql connection
 
-3. Then run : npm install 
+3. Then run : 
 
 ```
-
-Start strapi
+npm install 
 
 strapi start
 
